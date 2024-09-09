@@ -10,6 +10,7 @@ const NavBar = () => {
 				<Image
 					src='https://omercsx.s3.ca-central-1.amazonaws.com/frontend-projects/gamehub/Gamehub_logo.svg'
 					boxSize='80px'
+					objectFit='cover'
 				/>
 			</Link>
 			<SearchInput />
